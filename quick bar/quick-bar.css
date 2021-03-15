@@ -1,0 +1,12 @@
+#quick-bar {
+    font-size: 14px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.quick-bar__icon{
+    width: 70px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}

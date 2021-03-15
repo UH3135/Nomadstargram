@@ -1,0 +1,28 @@
+@import "./quick\ bar/quick-bar.css";
+@import "./insta\ header/insta-header.css";
+@import "./user\ avarta/user-avarta.css";
+@import "./post\ img/post-img.css";
+@import "./navigation\ bar/navigation-bar.css";
+@import "./contants/no-moblie.css";
+
+@import "./insta-story.css";
+@import "./main-post.css";
+@import "./profile-title.css";
+@import "./personal-profile.css";
+@import "./profile-buttons.css";
+@import "./personal-story.css";
+@import "./personal-post.css";
+
+@import "variable.css";
+
+@import "animation.css";
+
+@import url('https://fonts.googleapis.com/css2?family=Baloo+2:wght@400;500;600;700;800&family=Caveat:wght@700&display=swap');
+
+body {
+    font-family: 'Baloo 2', cursive;
+    margin: 5px 20px;
+}
+
+a:link {color: black; text-decoration: none;}
+a:visited{color: black; text-decoration: none;}

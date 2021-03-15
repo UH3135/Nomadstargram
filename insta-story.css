@@ -1,0 +1,48 @@
+.insta-story {
+    margin-top: 30px;
+    display: flex;
+    justify-content: space-between;
+    position: relative;
+}
+
+.insta-story__object {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    font-size: 11px;
+    font-weight: 500;
+}
+
+.insta-story__plus-icon {
+    width: 12px;
+    height: 12px;
+    font-size: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 2px solid white;
+    border-radius: 50%;
+    background-color: skyblue;
+    color: white;
+    padding: 3px;
+    position: absolute;
+    top: 30px;
+    left: 32px;
+}
+
+.insta-story__avarta {
+    padding: 2px;
+    transition: background 1s ease-in-out;
+}
+
+.insta-story__avarta:hover {
+    background: linear-gradient(114deg, rgba(166,192,254,1) 35%, rgba(246,128,132,1) 100%);
+}
+
+.insta-font {
+    margin-top: 4px;
+}
+
+.insta-story__line {
+  margin: 10px 0px;
+}

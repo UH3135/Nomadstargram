@@ -1,0 +1,8 @@
+.profile-title {
+    font-size: 20px; 
+    font-weight: 600;
+}
+
+.profile-title__icons {
+    width: 60px;
+}

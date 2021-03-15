@@ -1,0 +1,9 @@
+@keyframes changeStoryBorder {
+    from {
+        border: 0.5px solid black;
+    }
+
+    to {
+        border: 1px solid red;
+    }
+}

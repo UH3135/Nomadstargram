@@ -1,0 +1,18 @@
+.personal-profile {
+    margin-top: 20px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.personal-profile__info {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.personal-profile__count{
+    font-weight: 600;
+}
+

@@ -1,0 +1,22 @@
+.profile-buttons {
+    margin: 25px 0px;
+    display: flex;
+    justify-content: space-around;
+}
+
+.profile-buttons__button {
+    width: 200px;
+    height: 35px;
+    border: 2px solid rgba(0, 0, 0, 0.15);
+    border-radius: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 14px;
+    font-weight: 500;
+    transition: background-color 0.2s ease-in-out;
+}
+
+.profile-buttons__button:hover {
+    background-color: rgba(0, 0, 0, 0.15);
+}
